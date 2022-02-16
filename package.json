@@ -1,0 +1,14 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findNemo.js",
+  "scripts": {
+    "test": "nodemon findNemo.js"
+  },
+  "author": "Anshuman",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
